@@ -1,4 +1,4 @@
-# How do different training datasets generated from various PQ models affect the accuracy of a learning-based AC optimal power flow in a local electricity market?
+# How does the accuracy of a learning-based AC optimal power flow in a local electricity market vary with different training datasets generated from various PQ models?
 ### EE 290 Grid-edge Technologies
 PQ: real power P and reactive power Q<br/>
 AC: alternating current<br/>
