@@ -1,4 +1,4 @@
-# How do various PQ models perform for training learning-based AC optimal power flow in a local electricity market?
+# How do various PQ models perform for training learning-based AC optimal power flow in a local electricity market? What is the impact of different training datasets using various PQ models on the accuracy of a learning-based AC optimal power flow in a local electricity market?
 ### EE 290 Grid-edge Technologies
 PQ: real power P and reactive power Q<br/>
 AC: alternating current<br/>
