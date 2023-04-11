@@ -4,7 +4,7 @@
 AC: alternating current<br/>
 LEM: local electricity market<br/>
 OPF: optimal power flow<br/>
-PQ: real power P and reactive power Q
+PQ: real power P and reactive power Q<br/>
 pu: per unit
 #### Test system
 IEEE 33-bus distribution system by [1] (original case file, `case33bw.m`) and [2] (modified case file, `case33.m`)<br/>
