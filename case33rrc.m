@@ -1,4 +1,4 @@
-function mpc = case33																					
+function mpc = case33rrc																					
 %CASE33  Power flow data for IEEE 33 bus distribution system																					
 %    Please see CASEFORMAT for details on the case file format.																					
 																					
