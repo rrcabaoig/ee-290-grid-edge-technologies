@@ -10,9 +10,9 @@ pu: per unit
 IEEE 33-bus distribution system by [1] (original case file, `case33bw.m`) and [2] (modified case file, `case33.m`)<br/>
 further modification of `case33.m` [2] to `case33rrc.m` to allow bus voltages in the range of 0.90 pu to 1.10 pu
 #### Methodology
-1. Preparation of $\widehat{x} = \widehat{P_d},\widehat{Q_d}$
-2. AC OPF run to solve $\widehat{y} = \widehat{P_g},\widehat{V}$
-3. ANN training using $\widehat{x},\widehat{y}$
+1. Preparation of $\hat{x} = \hat{P_d},\hat{Q_d}$
+2. AC OPF run to solve $\hat{y} = \hat{P_g},\hat{V}$
+3. ANN training using $\hat{x},\hat{y}$
 4. ANN testing on $\check{x},\check{y}$
 5. Statisticsl comparison of errors
 #### References
