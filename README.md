@@ -13,7 +13,7 @@ further modification of `case33.m` [2] to `case33rrc.m` to allow bus voltages in
 1. Preparation of $\widehat{x} = \widehat{P_d},\widehat{Q_d}$
 2. AC OPF run to solve $\widehat{y} = \widehat{P_g},\widehat{V}$
 3. ANN training using $\widehat{x},\widehat{y}$
-4. ANN testing on $\usepackage{mathabx}\widecheck{x},\widecheck{y}$
+4. ANN testing on $\usepackage{mathabx} \widecheck{x},\widecheck{y}$
 5. Statisticsl comparison of errors
 #### References
 [1] M. E. Baran and F. F. Wu, "Network reconfiguration in distribution systems for loss reduction and load balancing," in IEEE Transactions on Power Delivery, vol. 4, no. 2, pp. 1401-1407, April 1989, doi: 10.1109/61.25627.<br/>
