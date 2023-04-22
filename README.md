@@ -8,7 +8,7 @@ PQ: real power P and reactive power Q<br/>
 pu: per unit<br/>
 ANOVA: analysis of variance
 #### Test system
-IEEE 33-bus distribution system by [1] (original case file, `case33bw.m`) and [2] (modified case file, `case33.m`)<br/>
+IEEE 33-bus radial distribution system by [1] (original case file, `case33bw.m`) and [2] (modified case file, `case33.m`)<br/>
 further modification of `case33.m` [2] to `case33rrc.m` to impose line limits
 #### Methodology
 1. Preparation of $\hat{x} = \hat{P_d},\hat{Q_d}$
