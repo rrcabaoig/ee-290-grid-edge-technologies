@@ -1,4 +1,4 @@
-# How does the accuracy of a learning-based AC optimal power flow in a local electricity market vary with different training datasets generated from various PQ models?
+# How does the prediction error of a learning-based AC optimal power flow in a local electricity market vary with different training datasets generated from various PQ models?
 ### EE 290 Grid-edge Technologies
 #### Acronyms
 AC: alternating current<br/>
