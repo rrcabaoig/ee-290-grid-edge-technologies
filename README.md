@@ -1,4 +1,4 @@
-# Investigating the Performance of Learning-Based AC Optimal Power Flow in a Radial System with Different Training Models: A Comparative Analysis of Prediction Errors
+# A Comparative Study of Learning-Based AC Optimal Power Flow Prediction Errors with Different Training Models in a Distribution System
 ### EE 290 Grid-edge Technologies
 #### Acronyms
 AC: alternating current<br/>
