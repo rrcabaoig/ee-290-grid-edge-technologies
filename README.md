@@ -1,4 +1,4 @@
-# How does the prediction error of a learning-based AC optimal power flow in a local electricity market vary with different training datasets generated from various PQ models?
+# Investigating the Performance of Learning-Based AC Optimal Power Flow with Different Training Models in a Radial System: A Comparative Analysis of Prediction Errors
 ### EE 290 Grid-edge Technologies
 #### Acronyms
 AC: alternating current<br/>
